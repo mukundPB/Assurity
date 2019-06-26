@@ -11,7 +11,7 @@ public class Dictionary {
 	Utilities.ConfigProperties config=new Utilities.ConfigProperties();
 	
 	/******************************************************************************
-	 * Get  response json of the  for location search
+	 * Get  response json of the  for Catalogue Search
 	 ******************************************************************************/
 	public JsonNode genericGetCatalog(String cataloguevalue)
 	{
